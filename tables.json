@@ -1,0 +1,26 @@
+[
+    {
+        "TableName": "TableName",
+        "TableKeys": ["id", "sampl_code", "insert_date", "delete_date"],
+        "TableCount": "240214",
+        "TableLimit": "500"
+    },
+    {
+        "TableName": "TableName",
+        "TableKeys": ["id", "sampl_code", "insert_date", "delete_date"],
+        "TableCount": "2767292",
+        "TableLimit": "500"
+    },
+    {
+        "TableName": "TableName",
+        "TableKeys": ["id", "sampl_code", "sampl_code", "sampl_code"],
+        "TableCount": "338",
+        "TableLimit": "338"
+    },
+    {
+        "TableName": "TableName",
+        "TableKeys": ["id", "sampl_code", "sampl_code", "sampl_code"],
+        "TableCount": "15141",
+        "TableLimit": "500"
+    }
+]
